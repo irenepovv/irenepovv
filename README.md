@@ -1,16 +1,13 @@
-## Hi there 👋
+  # ✨ Hi, I'm  Irene
 
-<!--
-**irenepovv/irenepovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Beginner Developer | Student | Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Current Focus
+- 🏗️ Learning the fundamentals of web development.
+- 🐙 Getting comfortable with Git and GitHub.
+- 🎮 Leveling up in **Valorant** and **Exams**.
+
+---
+*"Small steps every day."*
