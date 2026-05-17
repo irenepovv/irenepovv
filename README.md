@@ -5,7 +5,7 @@
 ---
 
 ### 🔍 Current Focus
-- 🏗️ Learning the fundamentals of web development.
+- 🏗️ Learning the fundamentals of python.
 - 🐙 Getting comfortable with Git and GitHub.
 - 🎮 Leveling up in **Valorant** and **Exams**.
 
